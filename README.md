@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theodore</h1>
 <h3 align="center">A lover of logic and programming.</h3>
 <h3 align="left">Connect with me:</h3>
-- 🌱 I’m currently learning **Web3 and Metaverse**
+- 🌱 I’m currently learning **web3 and metaverse**
 
 - 👯 I’m looking to collaborate on **remote projects**
 
