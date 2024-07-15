@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Theodore</h1>
-<h3 align="center">A lover of logic and programming.</h3>
+<h3 align="center">A lover of teaching, logic and programming.</h3>
 <h3 align="left">Connect with me:</h3>
-- 🌱 I’m currently working at Strapi
-- 👯 I’m looking to share my expertise and contribute to the Tech community.
 
+- 🌱 I’m currently working at [Strapi](https://strapi.io/)
+- 👯 I’m looking to share my expertise and contribute to the Tech community.
 - 👨‍💻 Some of my projects are available at [http://theodore-onyejiaku.herokuapp.com/](http://theodore-onyejiaku.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://www.educative.io/profile/view/5894995463110656](https://www.educative.io/profile/view/5894995463110656)
