@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Theodore</h1>
 <h3 align="center">A lover of logic and programming.</h3>
 <h3 align="left">Connect with me:</h3>
-- 🌱 I’m currently learning **web3 and metaverse**
-
-- 👯 I’m looking to collaborate on **remote projects**
+- 🌱 I’m currently working at Strapi
+- 👯 I’m looking to share my expertise and contribute to the Tech community.
 
 - 👨‍💻 Some of my projects are available at [http://theodore-onyejiaku.herokuapp.com/](http://theodore-onyejiaku.herokuapp.com/)
 
